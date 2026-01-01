@@ -1,0 +1,7 @@
+{
+  "name": " Alan Wesdra Advocacia",
+  "description": "Professional website for Alan Wesdra Advocacia e Consultoria Jurídica, featuring expertise areas, contact information, and an AI-powered legal assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
